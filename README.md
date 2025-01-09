@@ -10,4 +10,5 @@
 ## 1 - learn how can i edit the proxy setting at burbe suite 
 ## 2 - learn how can i take admin permession at the site with IDOR LAB
 
-# my first bug bounty is a XSS at https://www.egypttoursportal.com/search-tours/?s=%22%3E%3Cscript%3Ealert(%22hello%22)%3C/script%3E
+# my first bug bounty is a XSS at https://www.egypttoursportal.com/search-tours/?s=%22%3E%3Cscript%3Ealert(%22hello%22)%3C/script%3E  >>  8/1/2025
+# my secound bug bounty is a XSS at search https://www.luxorandaswan.com/search/?keyword=%3Cscript%3Ealert(%22hello+world%22)%3C/script%3E >> 9/1/2025
